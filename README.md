@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/91/16/8b/91168b4873f6659b3e9fdfe4b89cd864.gif" alt="Image" width="800" height="600" style="display: block; margin: 0 auto" />
+  <img src="https://i.pinimg.com/originals/91/16/8b/91168b4873f6659b3e9fdfe4b89cd864.gif" alt="Image" width="600" height="300" style="display: block; margin: 0 auto" />
 </p>
 <h1 align="center">Hi 👋, I'm Mohammad Saad</h1>
 <h3 align="center">A passionate & hard-working Computer Science Engineering Student from India</h3>
